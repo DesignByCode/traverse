@@ -14,6 +14,24 @@ The Traverse List Web Component Plugin provides a customizable list of items wit
 
 ## 📇 Table of Contents
 
+* [Installation](#installation)
+    * [Using pnpm](#using-pnpm)
+    * [Using npm](#using-npm)
+    * [Using yarn](#using-yarn)
+* [Usage](#usage)
+    * [Attributes](#attributes)
+    * [Examples](#examples)
+        * [Basic Usage](#basic-usage)
+        * [Non-loopable List](#non-loopable-list)
+        * [Attribute of current](#attribute-of-current)
+* [API](#api)
+    * [Properties](#properties)
+    * [Methods](#methods)
+* [Contributing](#contributing)
+    * [Contributors](#contributors)
+* [License](#license)
+* [Author](#author)
+
 ### Installation
 
 You can install the Traverse List Web Component Plugin using npm:

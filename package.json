@@ -5,12 +5,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DesignByCode/traverse.git"
+    "url": "git+https://github.com/designbycode/traverse.git"
   },
   "bugs": {
-    "url": "https://github.com/DesignByCode/traverse/issues"
+    "url": "https://github.com/designbycode/traverse/issues"
   },
-  "homepage": "https://github.com/DesignByCode/traverse#readme",
+  "homepage": "https://www.designbycode.co.za/open-source/npm/traverse-list-web-component",
   "type": "module",
   "types": "dist/",
   "main": "./dist/index.umd.cjs",
@@ -54,7 +54,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/DesignByCode/traverse/blob/main/LICENCE"
+      "url": "https://github.com/designbycode/traverse/blob/main/LICENCE"
     }
   ],
   "devDependencies": {
